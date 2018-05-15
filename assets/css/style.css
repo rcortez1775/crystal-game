@@ -1,0 +1,69 @@
+body {
+	background-image: url("https://hdwallsource.com/img/2014/5/light-blue-wallpaper-7838-8131-hd-wallpapers.jpg");
+}
+
+h1{
+	background-color: orange;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+}
+
+
+#instructions {
+	background-color: lightblue;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+    border: solid 1px #ddd
+}
+
+#numGuess {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#score {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+
+}
+
+#buttons {
+	margin-top: 15px;
+    margin-bottom:26px;
+}
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#endScore {
+	background: #009688;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
